@@ -1,0 +1,38 @@
+{
+  "name": "quantodeluz-themepack",
+  "displayName": "Quantodeluz Themepack",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "quantodeluz",
+  "keywords": [
+    "ThemePack",
+    "Themes",
+    "theme",
+    "Quantodeluz",
+    "Dark",
+    "Light",
+    "Dark Themes",
+    "Light Themes",
+    "Quantodeluz Theme"
+  ],
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Default Q-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Default Q-Dark-color-theme.json"
+      },
+      {
+        "label": "Default Q-Light",
+        "uiTheme": "vs",
+        "path": "./themes/Default Q-Light-color-theme.json"
+      }
+    ]
+  }
+}
