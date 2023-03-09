@@ -4,6 +4,10 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "quantodeluz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Quantodeluz/quantodeluz-themepack"
+  },
   "keywords": [
     "ThemePack",
     "Themes",
