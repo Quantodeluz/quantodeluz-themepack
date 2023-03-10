@@ -3,7 +3,7 @@
   "displayName": "Quantodeluz Themepack",
   "description": "Just another custom VS code theme",
   "icon": "Documents/GitHub/quantodeluz-themepack/icon.png",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "publisher": "quantodeluz",
   "repository": {
     "type": "git",
