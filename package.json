@@ -1,8 +1,9 @@
 {
   "name": "quantodeluz-themepack",
   "displayName": "Quantodeluz Themepack",
-  "description": "",
-  "version": "0.1.0",
+  "description": "Just another custom VS code theme",
+  "icon": "Documents/GitHub/quantodeluz-themepack/icon.png",
+  "version": "1.0.0",
   "publisher": "quantodeluz",
   "repository": {
     "type": "git",
